@@ -7,7 +7,7 @@ IPv4Info 0.5.0
 Input can be a list of follwing types:
 
 - IPv4-Address
-- IPv4-Subnet
+- IPv4-Subnet-Address
 - E-Mail-Address
 - Domainname
 
