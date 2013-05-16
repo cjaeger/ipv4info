@@ -41,9 +41,9 @@ final Ipv4Info ipv4Info = new Ipv4Info();
 ipv4Info.addQueries(testCollection);
 
 /*
- * Query a apecifiy result without setting any optional lookyp types.
+ * Query a specifiy result without setting any optional lookyp types.
  * This will just do a BASIC lookup which just resolves the A-Record (if needed),
- * to test if the quey is a resolvable domain or IP.
+ * to test if the query is a resolvable domain or IP.
  */
 System.out.println("##### Single result: #####");
 System.out.println(ipv4Info.getResult("gmail.com"));
