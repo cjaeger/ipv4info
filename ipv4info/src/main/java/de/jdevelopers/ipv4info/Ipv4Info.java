@@ -1,5 +1,5 @@
 /*
-* Copyright 2003, Carsten J�ger
+* Copyright 2013, Carsten Jäger
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -31,14 +31,14 @@ import de.jdevelopers.ipv4info.utils.Ipv4Utils;
  * Klasse, die Informationen zu einer IPv4-Adresse, eines IPv4-Subnetzes oder einer Domain sammelt.
  * (IPv6 wird NICHT unterstützt!).
  *
- * Als Basis diente: http://www.java2s.com/Code/Java/Network-Protocol/
- * Aclassthatperformssomesubnetcalculationsgivenanetworkaddressandasubnetmask.htm
+ * Als Basis diente: http://www.java2s.com/Code/Java/Network-Protocol/Aclassthatperformssomesubnetcalculationsgivenanetworkaddressandasubnetmask.htm
  *
  * Eine ähnliche Funktionalität wird vom Apache Commons-Net-Paket geboten, aber dafür müsste man ein JAR von ca. 262 KB
  * einbinden und das kann dann auch nicht mit IPv6 umgehen... :(
  *
  * Um Zusatzfunktionen wie das Holen von MX-/TXT-Einträgen zu erleichtern, wurde das dnsjava-Paket eingebunden.
- *
+ * 
+ * @author Carsten Jäger
  * @version 0.5.0
  *
  */

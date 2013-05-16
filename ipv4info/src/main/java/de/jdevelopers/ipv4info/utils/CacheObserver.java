@@ -1,5 +1,5 @@
 /*
-* Copyright 2003, Carsten J�ger
+* Copyright 2013, Carsten Jäger
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -28,7 +28,7 @@ import de.jdevelopers.ipv4info.objects.IpInfo;
  *
  * All entries from the Ipv4Utils.RESULT_POOL map will be removed if they are not accessed for Ipv4Utils.INTERNAL_CACHE_TTL.
  *
- * @author Carsten Jäger (c.jaeger@jdevelopers.de)
+ * @author Carsten Jäger
  *
  */
 class CacheObserver extends TimerTask {

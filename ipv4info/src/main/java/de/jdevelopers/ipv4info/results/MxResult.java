@@ -1,5 +1,5 @@
 /*
-* Copyright 2003, Carsten J�ger
+* Copyright 2013, Carsten Jäger
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -30,7 +30,7 @@ import de.jdevelopers.ipv4info.utils.Ipv4Utils;
 /**
  * Result-Object for MX-Calls.
  *
- * @author Carsten Jäger (c.jaeger@jdevelopers.de)
+ * @author Carsten Jäger
  *
  */
 public class MxResult implements Comparable<MxResult>, Serializable {
