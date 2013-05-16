@@ -9,7 +9,7 @@ Input can be a list of follwing types:
 - IPv4-Address
 - IPv4-Subnet
 - E-Mail-Address
-- Domain
+- Domainname
 
 Following DNS-Lookup's are supported:
 
