@@ -9,3 +9,10 @@ Getting following entries are supported:
 - RDNS
 - TXT
 - WHOIS
+
+Input can be one, o a list of follwing types:
+
+- E-Mail-Adress
+- Domain
+- IP-Adress
+- IP-Subnet
