@@ -1,7 +1,7 @@
 IPv4Info
 ========
 
-Java Package for collecting DNS-Informations of IPv4-Addresses, IPv4-Subnets E-Mail-Addresses or domains.
+Java Package for getting DNS-Informations of IPv4-Addresses, IPv4-Subnets E-Mail-Addresses or domains.
 
 
 Input can be a list of follwing types:
@@ -11,7 +11,7 @@ Input can be a list of follwing types:
 - E-Mail-Address
 - Domain
 
-Following DNS-Entries are supported:
+Following DNS-Queries are supported:
 
 - IP
 - MX
