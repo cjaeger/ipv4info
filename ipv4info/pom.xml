@@ -3,4 +3,20 @@
   <groupId>de.jdevelopers</groupId>
   <artifactId>ipv4info</artifactId>
   <version>0.5.0</version>
+  <name>IPv4Info</name>
+  <description>Utility library to get informations for IP-Addresses, E-Mail-Addresses and Domains</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>dnsjava</groupId>
+  		<artifactId>dnsjava</artifactId>
+  		<version>2.1.1</version>
+  	</dependency>
+  </dependencies>
+  <url>https://github.com/cjaeger/ipv4info</url>
+  <organization>
+  	<name>Carsten Jäger</name>
+  </organization>
+  <properties>
+  	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
 </project>
