@@ -23,7 +23,7 @@ import de.jdevelopers.ipv4info.objects.IpInfo;
 import de.jdevelopers.ipv4info.utils.Ipv4Utils;
 
 /**
- * Testcase.
+ * IPv4Info Testcase.
  *
  * @author Carsten Jäger
  *
