@@ -26,9 +26,9 @@ Following DNS-Lookup's are supported:
  */
 final Collection<String> testCollection = new ArrayList<String>();
 
+testCollection.add("212.227.222.8");
 testCollection.add("noname@github.com");
 testCollection.add("gmail.com");
-testCollection.add("212.227.222.8");
 
 /*
  * Creating an Ipv4Info instance.
