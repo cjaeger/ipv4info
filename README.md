@@ -6,13 +6,14 @@ Java Package for collecting DNS-Informations of IPv4-Addresses, IPv4-Subnets E-M
 
 Input can be a list of follwing types:
 
+- IPv4-Address
+- IPv4-Subnet
 - E-Mail-Address
 - Domain
-- IP-Address
-- IP-Subnet
 
-Getting following entries are supported:
+Following DNS-Entries are supported:
 
+- IP
 - MX
 - RDNS
 - TXT
