@@ -12,7 +12,7 @@ Getting following entries are supported:
 
 Input can be a list of follwing types:
 
-- E-Mail-Adress
+- E-Mail-Address
 - Domain
-- IP-Adress
+- IP-Address
 - IP-Subnet
