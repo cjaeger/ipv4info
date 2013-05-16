@@ -10,7 +10,7 @@ Getting following entries are supported:
 - TXT
 - WHOIS
 
-Input can be one, o a list of follwing types:
+Input can be a list of follwing types:
 
 - E-Mail-Adress
 - Domain
