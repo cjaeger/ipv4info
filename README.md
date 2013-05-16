@@ -13,9 +13,9 @@ Input can be a list of follwing types:
 Following DNS-Lookup's are supported:
 
 - <b>A</b> (always)
-- <b>RDNS</b> (optional)
 - <b>MX</b> (optional)
 - <b>TXT</b> (optional)
+- <b>RDNS</b> (optional)
 
 
 <p><i>Usage sample:</i></p>
