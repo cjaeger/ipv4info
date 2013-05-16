@@ -14,7 +14,7 @@ Input can be a list of follwing types:
 Following DNS-Queries are supported:
 
 - IP
-- MX
 - RDNS
+- MX
 - TXT
 - WHOIS
