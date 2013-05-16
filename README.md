@@ -1,7 +1,7 @@
 IPv4Info 0.5.0
 ==============
 
-<b>Java library for getting DNS-Informations of IPv4-Addresses, IPv4-Subnets E-Mail-Addresses or domains.</b>
+<b>Java library for getting DNS-Informations of IPv4-Addresses, IPv4-Subnets E-Mail-Addresses or Domains.</b>
 
 
 Input can be a list of follwing types:
