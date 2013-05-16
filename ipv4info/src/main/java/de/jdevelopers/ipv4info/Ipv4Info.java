@@ -39,7 +39,7 @@ import de.jdevelopers.ipv4info.utils.Ipv4Utils;
  * Um Zusatzfunktionen wie das Holen von MX-/TXT-Einträgen zu erleichtern, wurde das dnsjava-Paket eingebunden.
  * 
  * @author Carsten Jäger
- * @version 0.5.0
+ * @version 0.5.1
  *
  */
 public class Ipv4Info {
