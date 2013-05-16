@@ -22,6 +22,12 @@ import de.jdevelopers.ipv4info.enums.EMxOption;
 import de.jdevelopers.ipv4info.objects.IpInfo;
 import de.jdevelopers.ipv4info.utils.Ipv4Utils;
 
+/**
+ * Testcase.
+ * 
+ * @author Carsten Jäger
+ *
+ */
 public class TestIPv4Info {
 
 	public static void main(final String[] args) {
