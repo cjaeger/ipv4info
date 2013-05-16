@@ -24,7 +24,7 @@ import de.jdevelopers.ipv4info.utils.Ipv4Utils;
 
 /**
  * Testcase.
- * 
+ *
  * @author Carsten Jäger
  *
  */
