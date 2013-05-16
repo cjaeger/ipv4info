@@ -1,4 +1,4 @@
-IPv4Info 0.5.0
+IPv4Info 0.5.1
 ==============
 
 <b>Java library to resolve DNS-Entries of IPv4-Addresses, E-Mail-Addresses or Domains.</b>
