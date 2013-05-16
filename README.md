@@ -74,3 +74,5 @@ for (final IpInfo info : ipv4Info.getResults(testCollection)) {
 Ipv4Utils.shutDownThreadPool();
 ...
 </pre>
+
+&copy; Carsten Jäger, 2013
