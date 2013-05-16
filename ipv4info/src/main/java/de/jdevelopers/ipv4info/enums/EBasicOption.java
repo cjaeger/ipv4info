@@ -52,5 +52,5 @@ public enum EBasicOption {
     /**
      * CIDR request.
      */
-    CIDR;
+    CIDR
 }
